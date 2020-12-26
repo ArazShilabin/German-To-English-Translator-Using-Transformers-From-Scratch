@@ -3,6 +3,9 @@
 ## Introduction:
 This is an English to German translator built using Transformers. The transformer was implemented from scratch using TensorFlow 2 and the instructions of the paper "Attention Is All You Need"
 
+
+![alt text](https://pbs.twimg.com/media/DCKhefrUMAE9stK.jpg)
+
 ## Data:
 The data can be found in:  
 https://www.statmt.org/europarl/ 
