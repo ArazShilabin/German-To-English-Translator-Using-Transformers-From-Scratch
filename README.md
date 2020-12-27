@@ -14,8 +14,8 @@ And the non_breaking_prefixes can be found in this repository:
 https://github.com/moses-smt/mosesdecoder/tree/master/scripts/share/nonbreaking_prefixes
 
 ## Training:
-I did not have a proper GPU so I used google colab (not pro) for the training. I chose a smaller model compared to the paper and I trained it only for 2 epochs.
+I did not have a proper GPU so I used google colab (not pro) for the training. I chose a very very smaller model compared to the paper and I trained it only for 2 epochs.
 After one hour of training, the model achieved 24% accuracy at the end of the first epoch and 36% on the second, this could easily be further improved with more epochs and a larger model and more parameter tuning which I don't have the proper GPU for.
 
 ## Acknowledgements
-This translator is inspired from this beautiful Udemy course: https://www.udemy.com/course/modern-nlp/
+This translator is inspired from this wonderful udemy course: https://www.udemy.com/course/modern-nlp/
